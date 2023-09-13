@@ -69,7 +69,7 @@ body {
     cursor: pointer;
 }
 .button:hover, .button:focus{
-    color: #404bbf;
+    background-color: #404bbf;
 }
 
 .section-title {
@@ -103,7 +103,7 @@ body {
 }
 
 .imagine {
-    background: #FFF;
+    background-color: #FFF;
 
 }
 
