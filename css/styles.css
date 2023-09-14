@@ -2,7 +2,6 @@ body {
     font-family: 'Roboto',
         sans-serif;
     background-color: white;
-    border-bottom: #E7E9FC;
     color: #434455;
 }
 
@@ -36,6 +35,9 @@ body {
 .header-menu-item:hover, .header-menu-item:focus{
     color: #404bbf;
 }
+.address{
+    font-style: normal;
+}
 .address-link {
     color: #434455;
     font-size: 16px;
@@ -60,7 +62,6 @@ body {
 }
 
 .button {
-    border-radius: 4px;
     background: #4D5AE5;
     font-weight: 500;
     line-height: 1.5;
@@ -90,7 +91,7 @@ body {
 }
 
 .section-team {
-    background: #F4F4FD;
+    background-color: #FFFFFF;
 }
 
 .section-header-team {
@@ -136,7 +137,6 @@ body {
 }
 
 .imagine-portfolio {
-    border: 1px solid var(--CORNFLOWER, #E7E9FC);
     background: var(--WHITE, #FFF);
 }
 
