@@ -91,7 +91,7 @@ body {
 }
 
 .section-team {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
 .section-header-team {
@@ -101,6 +101,9 @@ body {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+}
+.section-list{
+    background-color: #FFFFFF;
 }
 
 .imagine {
